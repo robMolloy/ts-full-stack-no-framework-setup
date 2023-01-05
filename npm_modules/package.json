@@ -1,0 +1,10 @@
+{
+  "name": "npm_modules",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Rob Molloy",
+  "license": "MIT",
+  "dependencies": {
+    "zod": "^3.20.2"
+  }
+}

@@ -1,0 +1,16 @@
+1. What is your favourite programming language and why?
+TypeScript because I don't like bugs ;)
+
+2. Which cloud service provider is your favourite and why?
+Firestore for small projects, probably Mongo for bigger projects
+
+3. What is your preferred approach to testing software?
+Behaviour driven carried out by specialist testers and test driven development by developers. One caveat that I like to preach to my developers is that bad tests give false confidence which is worse than no confidence.
+
+4. Please provide your views and any relevant experience you have with devops, including web and mobile CI/CD:
+I am terrible with workflows. Workflows work best (IMO) when they make FE/BE developer's lives easier. Nothing should be more difficult than clicking a button (maybe two), github secrets (or similar) should be kept to a minimum. Workflows should run in a reasonable (up for dicussion) amount of time and fail even quicker if they are going to fail at all. I could talk at length about what my current company do well and badly.
+
+5. What are the three most important things to you about your next project or role you undertake?
+Delivering value 
+Code quality
+Work/life balance
